@@ -1,0 +1,14 @@
+D:\Projects\Свої проекти\Проби\WPF\GameOfLight\GameOfLight\bin\Debug\GameOfLight.exe.config
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameOfLight.exe.config
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameOfLight.exe
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameOfLight.pdb
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.csprojResolveAssemblyReference.cache
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\MainWindow.baml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\MainWindow.g.cs
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\App.g.cs
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight_MarkupCompile.cache
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.g.resources
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.Properties.Resources.resources
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.csproj.GenerateResource.Cache
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.exe
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.pdb
