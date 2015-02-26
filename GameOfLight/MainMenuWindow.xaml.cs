@@ -10,29 +10,29 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace GameOfLight
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainMenuWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainMenuWindow : Window
     {
-        public MainWindow()
+        public MainMenuWindow()
         {
             InitializeComponent();
         }
 
-        private void Window_KeyDown(object sender, KeyEventArgs e)
+        private void BtnExitClick(object sender, RoutedEventArgs e)
         {
-            if (e.Key.ToString() == "Escape")
-            {
-                
-                MainMenuWindow MMW = new MainMenuWindow();
-                MMW.ShowDialog();
-            }
+            Application app = Application.Current;
+            app.Shutdown(); 
+        }
+
+        private void BtnResumeClick(object sender, RoutedEventArgs e)
+        {
+            Close();
         }
     }
 }

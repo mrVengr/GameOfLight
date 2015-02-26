@@ -12,3 +12,6 @@ D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.Properties.Resources.r
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.csproj.GenerateResource.Cache
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.exe
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.pdb
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\MainMenuWindow.baml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\MainMenuWindow.g.cs
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\App.baml
