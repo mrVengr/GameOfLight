@@ -34,5 +34,14 @@ namespace GameOfLight
         {
             Close();
         }
+
+        private void Window_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key.ToString() == "Escape")
+            {
+                Close();
+            }
+        }
+
     }
 }
