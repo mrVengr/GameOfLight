@@ -15,3 +15,9 @@ D:\Projects\GameOfLight\GameOfLight\obj\Debug\GameOfLight.pdb
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\MainMenuWindow.baml
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\MainMenuWindow.g.cs
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\App.baml
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\EntityFramework.dll
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameOfLight.Lib.dll
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameOfLight.Lib.pdb
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\EntityFramework.xml
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\EntityFramework.SqlServer.xml

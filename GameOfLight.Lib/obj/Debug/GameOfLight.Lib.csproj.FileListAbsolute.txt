@@ -1,0 +1,12 @@
+D:\Projects\GameOfLight\GameOfLight.Lib\obj\Debug\GameOfLight.Lib.csprojResolveAssemblyReference.cache
+D:\Projects\GameOfLight\GameOfLight.Lib\bin\Debug\GameOfLight.Lib.dll.config
+D:\Projects\GameOfLight\GameOfLight.Lib\bin\Debug\GameOfLight.Lib.dll
+D:\Projects\GameOfLight\GameOfLight.Lib\bin\Debug\GameOfLight.Lib.pdb
+D:\Projects\GameOfLight\GameOfLight.Lib\bin\Debug\EntityFramework.dll
+D:\Projects\GameOfLight\GameOfLight.Lib\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\GameOfLight\GameOfLight.Lib\bin\Debug\EntityFramework.xml
+D:\Projects\GameOfLight\GameOfLight.Lib\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\GameOfLight\GameOfLight.Lib\obj\Debug\GameOfLight.Lib.dll
+D:\Projects\GameOfLight\GameOfLight.Lib\obj\Debug\GameOfLight.Lib.pdb
+D:\Projects\GameOfLight\GameOfLight.Lib\obj\Debug\GameOfLight.Lib.Migrations.InitialCreate.resources
+D:\Projects\GameOfLight\GameOfLight.Lib\obj\Debug\GameOfLight.Lib.csproj.GenerateResource.Cache
