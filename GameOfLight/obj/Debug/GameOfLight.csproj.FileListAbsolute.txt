@@ -21,3 +21,13 @@ D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameOfLight.Lib.dll
 D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameOfLight.Lib.pdb
 D:\Projects\GameOfLight\GameOfLight\bin\Debug\EntityFramework.xml
 D:\Projects\GameOfLight\GameOfLight\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\WindowStart.baml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\WindowStart.g.cs
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\LevelsWindow.baml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\RecordsWindow.baml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\SuccessWindow.baml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\TimeOutWindow.baml
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\LevelsWindow.g.cs
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\RecordsWindow.g.cs
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\SuccessWindow.g.cs
+D:\Projects\GameOfLight\GameOfLight\obj\Debug\TimeOutWindow.g.cs

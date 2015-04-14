@@ -32,7 +32,7 @@ namespace GameOfLight
         
         private void Window_KeyDown(object sender, KeyEventArgs e)
         {
-            mmm();
+           // mmm();
             if (e.Key.ToString() == "Escape")
             {
                 WindowBlur.Radius = 20;
@@ -62,7 +62,7 @@ namespace GameOfLight
                             select b;
                 foreach (var item in query)
                 {
-                //    db.Levels.Remove(item);
+                  //db.Levels.Remove(item);
                     MessageBox.Show(item.Name);
                 }
 

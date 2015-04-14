@@ -22,13 +22,13 @@
                 <DropShadowEffect Color="#FFFFE800" Opacity="0.9" BlurRadius="22" ShadowDepth="0"/>
             </Button.Effect>
         </Button>
-        <Button HorizontalAlignment="Center" FontSize="22" Content="Level">
+        <Button HorizontalAlignment="Center" FontSize="22" Content="Levels" Click="Button_Click">
             <Button.Effect>
                 <DropShadowEffect Color="#FFFFE800" Opacity="0.9" BlurRadius="22" ShadowDepth="0"/>
             </Button.Effect>
 
         </Button>
-        <Button HorizontalAlignment="Center" FontSize="22" Content="Records">
+        <Button HorizontalAlignment="Center" FontSize="22" Content="Records" Click="Button_Click_1">
             <Button.Effect>
                 <DropShadowEffect Color="#FFFFE800" Opacity="0.9" BlurRadius="22" ShadowDepth="0"/>
             </Button.Effect>
