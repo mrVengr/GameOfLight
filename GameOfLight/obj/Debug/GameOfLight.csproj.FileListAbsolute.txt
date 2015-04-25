@@ -31,3 +31,5 @@ D:\Projects\GameOfLight\GameOfLight\obj\Debug\LevelsWindow.g.cs
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\RecordsWindow.g.cs
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\SuccessWindow.g.cs
 D:\Projects\GameOfLight\GameOfLight\obj\Debug\TimeOutWindow.g.cs
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameDB.mdf
+D:\Projects\GameOfLight\GameOfLight\bin\Debug\GameDB_log.ldf

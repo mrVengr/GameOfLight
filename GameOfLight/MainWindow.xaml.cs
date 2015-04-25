@@ -32,9 +32,9 @@ namespace GameOfLight
         
         private void Window_KeyDown(object sender, KeyEventArgs e)
         {
-           // mmm();
             if (e.Key.ToString() == "Escape")
             {
+                mmm();
                 WindowBlur.Radius = 20;
                 MainMenuWindow MMW = new MainMenuWindow();
                 MMW.ShowDialog();
@@ -48,25 +48,18 @@ namespace GameOfLight
             
         }
 
-        static void mmm()
+        public void mmm()
         {
-            using (var db = new DBaseContext())
-            {
-                //int n = 1;
-                //string s = "asdf";
-                //var Level = new Level(n, s);
-                //db.Levels.Add(Level);
-                //db.SaveChanges();
-                var query = from b in db.Levels
-                            orderby b.Name
-                            select b;
-                foreach (var item in query)
-                {
-                  //db.Levels.Remove(item);
-                    MessageBox.Show(item.Name);
-                }
-
-            }
+            //int q=1;
+            //string str = "QuickStart";
+            //Level level = new Level(q, str);
+            //level.SaveToDB();
+            //foreach (var level in Level.LoadAllFromDB())
+            //{
+            //    MessageBox.Show(level.Name);
+            //}
+            
         }
+
     }
 }

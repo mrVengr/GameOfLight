@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
+
 
 namespace GameOfLight.Lib
 {
@@ -46,7 +46,7 @@ namespace GameOfLight.Lib
         public Record(DateTime _time, User _player, int _score)
     {
         RecordId = Guid.NewGuid();
-        gameTime = _time;
+        GameTime = _time;
         Player = _player;
         Score = _score;
     }
