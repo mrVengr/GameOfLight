@@ -50,7 +50,7 @@ namespace GameOfLight
 
         public void mmm()
         {
-            //int q=1;
+            //
             //string str = "QuickStart";
             //Level level = new Level(q, str);
             //level.SaveToDB();

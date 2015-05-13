@@ -25,8 +25,8 @@ namespace GameOfLight.Lib
             set { gameTime = value; }
         }
 
-        private User player;
-        public User Player
+        private Guid player;
+        public Guid Player
         {
             get { return player; }
             set { player = value; }
@@ -47,7 +47,7 @@ namespace GameOfLight.Lib
     {
         RecordId = Guid.NewGuid();
         GameTime = _time;
-        Player = _player;
+        Player = _player.UserId;
         Score = _score;
     }
     }

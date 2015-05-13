@@ -8,6 +8,14 @@ namespace GameOfLight.Lib
 {
     public class User
     {
+        private Guid userId;
+        public Guid UserId
+        {
+            get { return userId; }
+            set { userId = value; }
+        }
+
+
         private string name;
         public string Name
         {
@@ -17,11 +25,13 @@ namespace GameOfLight.Lib
 
         public User(string username)
         {
+            UserId = Guid.NewGuid();
             Name = username;
         }
 
         public User()
-        { 
+        {
+            UserId = Guid.NewGuid();
         }
 
     }
